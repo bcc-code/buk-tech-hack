@@ -1,0 +1,14 @@
+# BUK Tech Hack
+
+During the BUK Romjulscamp 2022 we focus on web security by teaching the participants a few common exploitation techniques applicable to the web, and their counters.
+
+## Subject ideas
+
+- XSS
+- SQL injection
+- CSRF
+- Path traversal
+
+### Not directly web related
+
+- File tricks such as the dual image/archive
