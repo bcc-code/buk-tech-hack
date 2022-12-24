@@ -1,0 +1,1 @@
+<span style=display:none>"}))); alert('XSS'); _feed((({"foo": "You just got hacked!", "no-one": "</span>Please reload your feed to show this message.",

