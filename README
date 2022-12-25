@@ -1,14 +1,7 @@
 # BUK Tech Hack
 
-During the BUK Romjulscamp 2022 we focus on web security by teaching the participants a few common exploitation techniques applicable to the web, and their counters.
+During the BUK Romjulscamp 2022 you'll learn web security. The first day we'll together do a walkthrough of Google Gruyere. The second day we'll let you compete in an actual CTF.
 
-## Subject ideas
+## Warning
 
-- XSS
-- SQL injection
-- CSRF
-- Path traversal
-
-### Not directly web related
-
-- File tricks such as the dual image/archive
+If you plan to participate, please don't look at these files ahead of time. During the activity you can use the scripts in the gruyere folder and the presentation, but please don't look ahead. You won't learn anything that way.
